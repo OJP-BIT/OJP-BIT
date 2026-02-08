@@ -1,4 +1,34 @@
-## Hi there 👋
+<div align="center">
+
+# 👋 Ojas Jayesh Pawar
+
+### 🎯 Data Scientist | ML Engineer | AI Researcher
+
+*Building production-ready ML systems that solve real business problems*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojaspawar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojasjp4220@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OJP-BIT)
+
+## 🔨 Currently Working On
+### 🚀 Active Projects & Research
+
+### 🔬 Research: Interpretable AI for Airbnb Occupancy
+
+**University of Arizona Research Lab** | *Ongoing*
+
+🎯 **What I'm Building:**
+- **Concept-bottleneck neural networks** that explain predictions through human-interpretable concepts
+- **LLM-powered knowledge extraction** mining domain insights from Reddit & StackExchange
+- **Knowledge distillation pipeline** using GPT-OSS-120B to teach smaller, deployable models
+
+🛠️ **Current Focus:**
+- Fine-tuning concept representations for maximum interpretability
+- Optimizing teacher-student distillation for production deployment
+- Benchmarking prediction accuracy vs traditional black-box models
+
+**Why This Matters:**  
+Building ML systems that stakeholders can actually trust and understand - critical for high-stakes business decisions.
 
 
 ## 🛠️ Tech Stack & Tools
