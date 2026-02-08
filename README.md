@@ -36,6 +36,20 @@ Benchmarking prediction accuracy vs traditional black-box models
 **Why This Matters:**  
 Building ML systems that stakeholders can actually trust and understand which is critical for high-stakes business decisions.
 
+### 🎥 MeetAI: Production Authentication System
+
+**Personal SaaS Project** | *Active Development*
+
+🔐 **What I'm Building:**
+
+Implementing **enterprise-grade authentication** using **Better-Auth**
+
+Multi-provider OAuth integration (Google, GitHub, Email)
+
+Role-based access control (RBAC) for premium features
+
+Session management with secure token handling
+
 
 ## 🛠️ Tech Stack & Tools
 
