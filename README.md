@@ -25,16 +25,10 @@
 
 **Knowledge distillation pipeline** using GPT-OSS-120B to teach smaller, deployable models
 
-🛠️ **Current Focus:**
-
-Fine-tuning concept representations for maximum interpretability
-
-Optimizing teacher-student distillation for production deployment
-
-Benchmarking prediction accuracy vs traditional black-box models
-
 **Why This Matters:**  
 Building ML systems that stakeholders can actually trust and understand which is critical for high-stakes business decisions.
+
+---
 
 ### 🎥 MeetAI: Production Authentication System
 
@@ -86,7 +80,7 @@ Session management with secure token handling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
----
+
 
 
 
@@ -139,7 +133,6 @@ Session management with secure token handling
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OJP-BIT/MIS531_McDonald-s_Database_Design)
 
----
 
 ## 📫 Let's Connect
 
