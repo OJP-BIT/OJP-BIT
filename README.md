@@ -83,57 +83,6 @@ Session management with secure token handling
 
 
 
-
-
-## 🎯 Featured Projects
-
-### 📚 [Machine Learning Practicals](https://github.com/OJP-BIT/Machine-Learning-Practicals)
-
-**Hands-on ML Labs I practiced**
-
-✅ End-to-end pipelines
-
-✅ Feature engineering experiments
-
-✅ Model evaluation strategies
-
-✅ Hyperparameter optimization
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OJP-BIT/Machine-Learning-Practicals)
-
----
-
-### 🎥 [MeetAI](https://github.com/OJP-BIT/meetai)
-
-**AI-powered video conferencing with real-time insights**
-
-🎯 Live meeting summaries
-
-📊 Sentiment analysis
-
-🔍 Action item extraction
-
-💡 AI-generated insights
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OJP-BIT/meetai)
-
----
-
-### 🍔 [McDonald's Database Design](https://github.com/OJP-BIT/MIS531_McDonald-s_Database_Design)
-
-**Enterprise database modeling & optimization**
-
-🗄️ ERD design
-
-🔐 Normalization
-
-⚡ Query optimization
-
-📋 Business logic
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OJP-BIT/MIS531_McDonald-s_Database_Design)
-
-
 ## 📫 Let's Connect
 
 ### Ready to discuss how I can contribute to your team's success!
