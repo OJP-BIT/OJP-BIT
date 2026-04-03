@@ -10,41 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojasjp4220@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OJP-BIT)
 
-## 🔨 Currently Working On
-### 🚀 Active Projects & Research
-
-### 🔬 Research: Interpretable AI for Airbnb Occupancy
-
-**University of Arizona Research Lab** | *Ongoing*
-
-🎯 **What I'm Building:**
-
-**Concept-bottleneck neural networks** that explain predictions through human-interpretable concepts
-
-**LLM-powered knowledge extraction** mining domain insights from Reddit & StackExchange
-
-**Knowledge distillation pipeline** using GPT-OSS-120B to teach smaller, deployable models
-
-**Why This Matters:**  
-Building ML systems that stakeholders can actually trust and understand which is critical for high-stakes business decisions.
-
----
-
-### 🎥 MeetAI: Production Authentication System
-
-**Personal SaaS Project** | *Active Development*
-
-🔐 **What I'm Building:**
-
-Implementing **enterprise-grade authentication** using **Better-Auth**
-
-Multi-provider OAuth integration (Google, GitHub, Email)
-
-Role-based access control (RBAC) for premium features
-
-Session management with secure token handling
-
-
 ## 🛠️ Tech Stack & Tools
 
 ### Languages & Core
