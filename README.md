@@ -2,7 +2,7 @@
 
 # 👋 Ojas Jayesh Pawar
 
-### 🎯 Data Scientist | ML Engineer | AI Researcher
+### 🎯 Data Scientist | AI Researcher | Data Analyst | Business Intelligence Engineer
 
 *Building production-ready ML systems that solve real business problems*
 
