@@ -48,9 +48,6 @@
 
 ### Ready to discuss how I can contribute to your team's success!
 
-### 📧 Email: [ojasjp4220@gmail.com](mailto:ojasjp4220@gmail.com)
-### 📱 Phone: +1 (520) 427-4059
-### 🔗 LinkedIn: [linkedin.com/in/ojaspawar](https://linkedin.com/in/ojaspawar/)
-### 💻 GitHub: [github.com/OJP-BIT](https://github.com/OJP-BIT)
+
 
 ---
